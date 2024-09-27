@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stendich.github.io/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/app/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/assets/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/css/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/data/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/includes/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/item/sitemap.stendich.gz
+Sitemap: https://stendich.github.io/src/sitemap.stendich.gz
